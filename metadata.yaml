@@ -1,11 +1,16 @@
 _repo: The-Y-M-C-A-boys-of-Cliffwood-b-or-The-struggle-for-the-Holwell-Prize_70108
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70108-h/images/cover.jpg
 creator:
   author:
     agent_name: Henderley, Brooks
     gutenberg_agent_id: '55600'
     url: http://www.gutenberg.org/2009/agents/55600
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70108#The-Y-M-C-A-boys-of-Cliffwood-b-or-The-struggle-for-the-Holwell-Prize
 gutenberg_issued: '2023-02-23'
 identifiers:
   gutenberg: '70108'
